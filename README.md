@@ -58,11 +58,6 @@ const goncharov = {
 
 <pre>goncharof@github:~$ neofetch --stats</pre>
 
-<img src="https://github-readme-stats.vercel.app/api?username=goncharof&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncharof&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" alt="Top Languages" height="170" />
-
-<br/>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=goncharof&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
 
 <br/>
