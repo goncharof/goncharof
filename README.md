@@ -1,13 +1,13 @@
 <div align="center">
 
-```
+<pre>
  ██████╗  ██████╗ ███╗   ██╗ ██████╗██╗  ██╗ █████╗ ██████╗  ██████╗ ██╗   ██╗
 ██╔════╝ ██╔═══██╗████╗  ██║██╔════╝██║  ██║██╔══██╗██╔══██╗██╔═══██╗██║   ██║
 ██║  ███╗██║   ██║██╔██╗ ██║██║     ███████║███████║██████╔╝██║   ██║██║   ██║
 ██║   ██║██║   ██║██║╚██╗██║██║     ██╔══██║██╔══██║██╔══██╗██║   ██║╚██╗ ██╔╝
 ╚██████╔╝╚██████╔╝██║ ╚████║╚██████╗██║  ██║██║  ██║██║  ██║╚██████╔╝ ╚████╔╝ 
  ╚═════╝  ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝  
-```
+</pre>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+frontend+developer;%3E+building+interactive+experiences;%3E+always+learning+new+tech;%3E+open+to+collaboration" alt="Typing SVG" /></a>
 
@@ -17,9 +17,7 @@
 
 <div align="center">
 
-```console
-goncharof@github:~$ cat about.txt
-```
+<pre>goncharof@github:~$ cat about.txt</pre>
 
 </div>
 
@@ -44,9 +42,7 @@ const goncharov = {
 
 <div align="center">
 
-```console
-goncharof@github:~$ ls tech-stack/
-```
+<pre>goncharof@github:~$ ls tech-stack/</pre>
 
 <p>
   <a href="https://skillicons.dev">
@@ -60,9 +56,7 @@ goncharof@github:~$ ls tech-stack/
 
 <div align="center">
 
-```console
-goncharof@github:~$ neofetch --stats
-```
+<pre>goncharof@github:~$ neofetch --stats</pre>
 
 <img src="https://github-readme-stats.vercel.app/api?username=goncharof&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&icon_color=00FF00&text_color=c9d1d9" alt="GitHub Stats" height="170" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=goncharof&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF00&text_color=c9d1d9" alt="Top Languages" height="170" />
@@ -81,9 +75,7 @@ goncharof@github:~$ neofetch --stats
 
 <div align="center">
 
-```console
-goncharof@github:~$ fortune | cowsay
-```
+<pre>goncharof@github:~$ fortune | cowsay</pre>
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
 
@@ -93,9 +85,7 @@ goncharof@github:~$ fortune | cowsay
 
 <div align="center">
 
-```console
-goncharof@github:~$ spotify --now-playing
-```
+<pre>goncharof@github:~$ spotify --now-playing</pre>
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2imdmblyd5k2xh3jqydbfclwa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2imdmblyd5k2xh3jqydbfclwa&redirect=true)
 
@@ -105,9 +95,7 @@ goncharof@github:~$ spotify --now-playing
 
 <div align="center">
 
-```console
-goncharof@github:~$ echo $VISITORS
-```
+<pre>goncharof@github:~$ echo $VISITORS</pre>
 
 <img src="https://komarev.com/ghpvc/?username=goncharof&label=PROFILE+VIEWS&color=00FF00&style=flat-square" alt="Profile Views" />
 
