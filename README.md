@@ -17,24 +17,26 @@
 
 <div align="center">
 
-<pre>goncharof@github:~$ cat about.txt</pre>
+<pre>goncharof@github:~$ cat about.ts</pre>
 
 </div>
 
-```js
+```ts
 const goncharov = {
-    pronouns: "he" | "him",
+    name: "Ivan Goncharov",
+    pronouns: ["he", "him"],
+    location: "Setúbal, Portugal",
     currentWork: "Destination Guides @ FlightPath3D",
+    focus: ["TypeScript", "maps & 3D globes", "interactive UIs"],
     learning: ["Go", "Rust"],
-    interests: ["frontend", "modern web", "interactive UIs"],
-    contact: "ivango89@gmail.com"
-};
+    contact: "ivango89@gmail.com",
+} as const;
 ```
 
 <div align="center">
 
 [![Gmail](https://img.shields.io/badge/ivango89@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=00FF00)](mailto:ivango89@gmail.com)
-[![GitHub](https://img.shields.io/badge/goncharof-000000?style=for-the-badge&logo=github&logoColor=00FF00)](https://www.github.com/goncharof/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00)](https://www.linkedin.com/in/ivan-goncharov-2b305212a)
 
 </div>
 
@@ -56,13 +58,33 @@ const goncharov = {
 
 <div align="center">
 
-<pre>goncharof@github:~$ neofetch --stats</pre>
+<pre>goncharof@github:~$ ps aux | grep now-building</pre>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=goncharof&theme=dark&hide_border=true&background=0d1117&stroke=00FF00&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=00FF00&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak" />
+</div>
+
+```diff
++ 🌍  interactive 3D globes & maps for in-flight destination guides
++ 🎬  video subsystems and media playback in the browser
++ 🧱  type-safe store architecture & HTTP clients in TypeScript
++ ⚙️  CI pipelines that keep it all green
+! 🦀  side quests: Go & Rust
+```
+
+---
+
+<div align="center">
+
+<pre>goncharof@github:~$ git log --graph --3d</pre>
+
+<img src="./profile-3d-contrib/profile-night-green.svg" alt="3D contribution graph" width="100%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=goncharof&theme=github-dark&hide_border=true&bg_color=0d1117&color=00FF00&line=00FF00&point=c9d1d9&area=true&area_color=00FF00" alt="Activity Graph" width="95%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/snake.svg" />
+  <img alt="snake eating contributions" src="./dist/snake.svg" />
+</picture>
 
 </div>
 
@@ -80,18 +102,8 @@ const goncharov = {
 
 <div align="center">
 
-<pre>goncharof@github:~$ spotify --now-playing</pre>
-
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2imdmblyd5k2xh3jqydbfclwa&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31c2imdmblyd5k2xh3jqydbfclwa&redirect=true)
-
-</div>
-
----
-
-<div align="center">
-
 <pre>goncharof@github:~$ echo $VISITORS</pre>
 
-<img src="https://komarev.com/ghpvc/?username=goncharof&label=PROFILE+VIEWS&color=00FF00&style=flat-square" alt="Profile Views" />
+<img src="https://hits.sh/github.com/goncharof.svg?label=profile%20views&color=00ff00&labelColor=0d1117" alt="Profile Views" />
 
 </div>
